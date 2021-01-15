@@ -1,4 +1,3 @@
 # Final-Project
-Ketai Library
 ---
-For Drawing Program:
+For Drawing Program
